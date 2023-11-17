@@ -2,4 +2,4 @@
 pip install pandas matplotlib seaborn streamlit babel
 
 # Run Streamlit App
-streamlit run Dashboard_projek1.py
+streamlit run Proyek1\Dashboard_projek1.py
