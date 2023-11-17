@@ -8,7 +8,7 @@ from babel.numbers import format_currency
 sns.set(style='darkgrid')
 
 # Read the data
-day_df = pd.read_csv("C:/KULIAH/Practice/pyhton/Proyek1/Dashboard/final_data.csv")
+day_df = pd.read_csv("final_data.csv")
 
 # Set Streamlit header
 st.title("Bike Sharing Dashboard :bike:")
